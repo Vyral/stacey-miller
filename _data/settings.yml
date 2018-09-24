@@ -13,8 +13,8 @@ client:
   about_markdown: |
     Previously a founder and  the owner of 4 successful companies in the high end fashion industry. 23 years of experience as a top selling Real Estate Agent. Certified Bank Owned Property Specialist, Luxury Agent Certified, Certified Global Property Specialist. Awarded a top 10% of all sales agents nationwide award as per the Board of Realtors. My list to sale price averages 96% helping me to create strong lifetime relationships with clients  Expertise in real estate across the board – from luxury property sales to management of ROE property sales. Strong focus and expertise in luxury home sales for over 20 years. Extensive experience in team management and personnel training of the sales agents.
   market: San Diego
-  brand: Big Block Realty
-  brokerage:
+  brand: Stacey Anistacia Miller Realtors
+  brokerage: Big Block Realty
   address: '2820 Camino Del Rio S #314<br>San Diego, CA 92108'
   phone: 619-393-6633
   phone_type:
@@ -87,7 +87,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#58bb47'
+  brand_color: '#a70505'
   theme_color: '#231f20'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
