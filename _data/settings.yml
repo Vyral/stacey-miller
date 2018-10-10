@@ -9,14 +9,14 @@ custom_links:
 client:
   name: Stacey Anistacia Miller
   title:
-  license_number:
+  license_number: 'BRE # 01885775'
   about_markdown: |
-    Previously a founder and  the owner of 4 successful companies in the high end fashion industry. 23 years of experience as a top selling Real Estate Agent. Certified Bank Owned Property Specialist, Luxury Agent Certified, Certified Global Property Specialist. Awarded a top 10% of all sales agents nationwide award as per the Board of Realtors. My list to sale price averages 96% helping me to create strong lifetime relationships with clients  Expertise in real estate across the board – from luxury property sales to management of ROE property sales. Strong focus and expertise in luxury home sales for over 20 years. Extensive experience in team management and personnel training of the sales agents.
+    Previously a founder and  the owner of 4 successful companies in the high end fashion industry. 23 years of experience as a top selling Real Estate Agent. Certified Bank Owned Property Specialist, Luxury Agent Certified, Certified Global Property Specialist. Awarded a top 10% of all sales agents nationwide award as per the Board of Realtors. My list to sale price averages 96% helping me to create strong lifetime relationships with clients.  Expertise in real estate across the board – from luxury property sales to management of ROE property sales.  Listing Agent for Wells Fargo, Chase, and Bank of America. Can we also change 23 to 25 and the over 20 to 25. Strong focus and expertise in luxury home sales for over 20 years. Extensive experience in team management and personnel training of the sales agents.
   market: San Diego
-  brand: Stacey Anistacia Miller Realtors
+  brand:
   brokerage: Big Block Realty
   address: '2820 Camino Del Rio S #314<br>San Diego, CA 92108'
-  phone: 619-393-6633
+  phone: 858-349-6626
   phone_type:
   phone2:
   phone2_type:
@@ -25,7 +25,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.realtor.com/propertyrecord-search
+  first_CTA_URL: https://www.realtor.com/sell
   second_CTA_text: Home Search
   second_CTA_URL: http://www.staceymiller.com/properties/
 
@@ -34,7 +34,7 @@ sidebar_CTA:
     CTA_title: "What’s Your San Diego Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.realtor.com/propertyrecord-search
+    CTA_url: https://www.realtor.com/sell
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
