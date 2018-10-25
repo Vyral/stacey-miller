@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: Your October 2018 Market Update
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Stacey+Miller/Stacey+Miller-+Our+October+2018+Market+Update+for+San+Diego.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
