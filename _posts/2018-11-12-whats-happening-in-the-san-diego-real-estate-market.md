@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening in the San Diego Real Estate Market?
-date: 2018-11-12 19:04:30
+date: 2018-11-12 19:04:00
 tags:
   - Market Update
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/11-12---stacey-miller---yt.jpg
-youtube_code: CFB0HOh3YIA
+youtube_code: pHPEoqqR1ho
 ---
 
 {% include youtube.html %}
