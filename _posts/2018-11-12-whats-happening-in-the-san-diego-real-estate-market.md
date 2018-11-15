@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/11-12---stacey-miller---yt.jpg
-youtube_code: pHPEoqqR1ho
+youtube_code: GX-CkeTzzqs
 ---
 
 {% include youtube.html %}
