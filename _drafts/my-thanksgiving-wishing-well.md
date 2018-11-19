@@ -3,7 +3,6 @@ layout: post
 title: My Thanksgiving Wishing Well
 date:
 tags:
-  - Thanksgiving
 excerpt: A run-in with a wishing well gave me a moment to reflect.
 enclosure:
 pullquote:
@@ -11,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/11-19---stacey-miller---yt.jpg
-youtube_code:
+youtube_code: LyNp6IcnRks
 ---
 
 {% include youtube.html %}
