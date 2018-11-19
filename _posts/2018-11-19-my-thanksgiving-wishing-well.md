@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Thanksgiving Wishing Well
-date:
+date: 2018-11-19 20:26:17
 tags:
 excerpt: A run-in with a wishing well gave me a moment to reflect.
 enclosure:
