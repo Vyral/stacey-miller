@@ -25,7 +25,7 @@ With that in mind, there are three primary reasons you should consider investing
 
 **1. The majority of people prefer vacation rentals to hotels.** According to a study by Airbnb, 68% of people would prefer to stay in a rental over a hotel, if possible.
 
-**2. Property values for rentals are increasing by 11% per year on average. **
+**2. Property values for rentals are increasing by 11% per year on average.**
 
 **3. There is no rent control (so far) in San Diego.**
 
