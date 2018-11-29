@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Reasons to Invest in a Vacation Rental Property
-date: 2018-11-27 18:21:40
+date: 2018-11-27 18:21:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/11-27---stacey-miller---yt.jpg
-youtube_code: T2IvJtt01RU
+youtube_code: qLHib3l4giU
 ---
 
 {% include youtube.html %}
