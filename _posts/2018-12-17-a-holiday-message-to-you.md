@@ -23,6 +23,6 @@ Happy Holidays! In the spirit of the season, our team would like to extend our w
 
 **We look forward to continuing to serve our community and are excited to work with you all in the new year to come.** With that said, I would like to challenge you to give back in your own way this season. Perform a random act of kindness and spread the joy. You may find that you’ve got a passion for it. This was certainly the case for me.
 
-I recently helped served dinner to those in need with a local officer’s group, and I hope to do this at least once per month. Give the gift of kindness this holiday season. We should all strive to treat one another like family, so that we may live in peace and harmony.
+I recently helped serve dinner to those in need with a local USO officer’s group, and I hope to do this at least once per month. Give the gift of kindness this holiday season. We should all strive to treat one another like family, so that we may live in peace and harmony.
 
 Merry Christmas, Happy Hanukkah, Happy Holidays, and Happy New Year!
